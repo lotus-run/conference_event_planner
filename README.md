@@ -1,1 +1,1 @@
-# coding-project-template
+# conference event planner with react - redux 
